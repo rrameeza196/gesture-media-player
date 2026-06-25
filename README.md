@@ -11,9 +11,8 @@ An HCI project that lets you control a media player using **hand gestures** capt
 
 ## 📺 Demo Video
 
-https://github.com/rrameeza196/REPO_NAME/raw/main/media/recording.mp4
+https://github.com/rrameeza196/gesture-media-player/raw/main/media/recording.mp4
 
-> ⚠️ Replace `REPO_NAME` above with your actual repository name once created — GitHub will then render this as a playable video directly on this page. Until pushed, you can also just open [`media/recording.mp4`](media/recording.mp4) directly.
 
 A short screen recording of the system detecting live hand gestures through the webcam and triggering the corresponding media commands (play/pause, volume, track skip, mute) in real time.
 
