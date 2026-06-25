@@ -2,7 +2,7 @@
 
 An HCI project that lets you control a media player using **hand gestures** captured from a webcam — no mouse, no keyboard, no touch. Built with **MediaPipe** hand-landmark detection and classical ML classifiers (k-NN, SVM, Random Forest).
 
-> **Course:** SE305T / MD445T – Human Computer Interaction (Spring '26)
+> **Course:** Human Computer Interaction
 > **Institution:** Information Technology University (ITU), Lahore
 > **Assignment:** Code Project Submission 3 (CP3)
 
